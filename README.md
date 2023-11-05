@@ -1,6 +1,6 @@
 # `UK-NABES`
 
-The files for the NABES website are hosted here. You can look at the rendered site at [https://uk-nabes.github.io].
+The files for the NABES website are hosted here. You can look at the rendered site at https://uk-nabes.github.io.
 
 ## Some details about the site setup
 
