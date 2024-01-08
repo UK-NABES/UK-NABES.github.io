@@ -8,3 +8,13 @@
 # ignore windows temporary files
 ~*.*
 *.bak
+
+# ignore jekyll build directories. When developing the site
+# you can use 'bundle exec jeykll build' and bundle exec jekyll serve'
+# to test your changes, but the build that is deployed automatically
+# by github action to https://uk-nabes.github.io does it's own build
+# and doesn't need these bits...
+
+*.lock
+_site/*
+_site
