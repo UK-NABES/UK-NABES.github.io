@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Network of Agricultural, Biological and Environmental Statisticians
+title: Network of Agricultural, Biological and Environmental Statisticians 
 email: dave.millar@bioss.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Unless otherwise stated, all material availble on this site is made availble under CC-BY 4.0 license, and is copyright of the creator. 
+  Unless otherwise stated, all material availble on this site is made available under CC-BY 4.0 license, and is copyright of the content creator (© 2024). 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://UK-NABES.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  UK-NABES
