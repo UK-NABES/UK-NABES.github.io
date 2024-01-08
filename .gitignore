@@ -1,6 +1,10 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+
+# ignore Rstudio housekeeping files
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignore windows temporary files
+~*.*
+*.bak
