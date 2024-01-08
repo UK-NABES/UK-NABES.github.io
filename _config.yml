@@ -19,11 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Network of Agricultural, Biological and Environmental Statisticians
-email: your-email@example.com
+email: dave.millar@bioss.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Unless otherwise stated, all material availble on this site is made availble under CC-BY 4.0 license, and is copyright of the creator. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://UK-NABES.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  UK-NABES
