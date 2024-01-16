@@ -4,7 +4,17 @@ The files for the NABES website are hosted here. You can look at the rendered si
 
 ## Contributing to the site
 
-The NABES website uses github actions to automatically build and redelopy the https://uk-nabes.github.io site when changes are made to the `main` branch of the repository. What this mean is that adding a new post is dead easy - just check out the repository, write a new post in [markdown](https://www.markdownguide.org/tools/jekyll/) under the `_posts` directory (remembering to use the naming convention *YYYY-MM-DD-post-title-with-hyphens-not-spaces.markdown*), commit your changes locally, and push the changes back up to the repository. The post should then just go live automatically after a few minutes.
+The NABES website uses github actions to automatically build and redelopy the https://uk-nabes.github.io site when changes are made to the `main` branch of the repository. 
+
+### Adding "blog" posts
+
+Adding a new post is dead easy - just write a new post in [markdown](https://www.markdownguide.org/tools/jekyll/) under the `_posts` directory (remembering to use the file naming convention *YYYY-MM-DD-post-title-with-hyphens-not-spaces.markdown*), commit your changes locally, and push the changes back up to the repository. The post should then just go live automatically after a few minutes.
+
+## Adding people or organisations
+
+To add a new person or organisation, go to the `_people/` or `_organisations/` directory (respectively) and make a copy of the `template.md` file (e.g. as `myorg.md`, the filename isn't used anywhere, it just needs to be descriptive and unique). Then edit that file, ensuring you fill in the [YAML](https://jekyllrb.com/docs/front-matter/) at the top of the file, then the content below. Add a logo or photo to that directory too. Once you have that as you like, don't forget to add the new `.md` file and logo/photo, commit the changes and push.
+
+### Testing the site
 
 You can test whether your post will work and look OK first, of you want, by following the installation and build instructions from [here](https://jekyllrb.com/docs/step-by-step/01-setup/) (I think you'll need linux, windows subsystem linux, or macos for this), but remembering not to follow the 'create a site' section, but instead just be int he root path of the git checkout of this repository.
 

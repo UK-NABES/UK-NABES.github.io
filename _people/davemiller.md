@@ -1,0 +1,14 @@
+---
+name: Dave Miller
+shortname: dlm
+website: https://converged.yt/
+image: dlm.jpeg
+---
+
+I work as a senior statistician at BioSS with close links to the <a href="https://www.ceh.ac.uk/" title="UK CEH website">UK Centre for Ecology and Hydrology</a>.
+
+<p>I work on all kinds of ecological (and sometimes non-ecological) problems. I've spent a lot of time working out how to count animals and plants using statistics and computers, including models for detection (<a href="http://doi.org/10.18637/jss.v089.i01" title="paper on distance sampling software">accounting for how observers might miss seeing animals, usually involving the distance between them</a>) and building spatial models (<a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12105/abstract" title="link to an introductory paper on density surface modelling">where are the animals, and how do they relate to biological factors like vegetation cover and sea temperature?</a>). In particular I've worked on attempting to include uncertainty from <a href="https://arxiv.org/abs/1807.07996" title="paper on propagating uncertainty between model components in a GAM">model components</a> and from <a href="https://peerj.com/articles/13950/" title="paper on including environmental uncertainty into density surface models">underlying environmental data</a>.</p>
+<p>One of my big research areas is <a href="https://arxiv.org/abs/1902.01330" title="link to paper on Bayesian views of generalized additive modelling">generalized additive modelling</a>: that is how to we include <a href="http://doi.org/10.7717/peerj.6876" title="link to paper on building very flexible GAMs">flexible</a>, wiggly components in our models to describe the complicated relationships between things.</p>
+<p>I’m also interested in <a href="http://arxiv.org/abs/2001.07623" title="link to the paper: Understanding the Stochastic Partial Differential Equation Approach to Smoothing">how different statistical models are equivalent in some way</a> and can be used to gain insights into each other.</p>
+<p>Previously: I worked as a research fellow at the Centre for Research into Ecological &amp; Environmental Modelling and the School of Mathematics &amp; Statistics at the University of St Andrews. While there I worked on improving spatial models for cetacean abundance and distribution with funding from the US Navy’s Living Marine Resources programme. I’ve also worked at NOAA’s Northeast Fisheries Science Center (sic) in Woods Hole, MA, the University of Rhode Island and CSIRO in Hobart, Tasmania.</p>
+<p>Outside of work I'm a runner (10k-half trail), boulderer (with a bit of sport climbing too), (bad) birder/gull enthusiast and board gamer. I like making <a href="https://converged.yt/bots/" title="link to twitter/mastodon bots I've made">weird things</a> on <a href="https://converged.yt/primel/" title="weird wordle clone I wrote to guess 5 digit prime numbers">the internet</a>.</p>
