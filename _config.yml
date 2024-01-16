@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Network of Agricultural, Biological and Environmental Statistics
-email: dave.millar@bioss.ac.uk
+email: dave.miller@bioss.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Unless otherwise stated, all material availble on this site is made available under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 license</a>, and is copyright of the content creator (© 2024). 
 baseurl: "" # the subpath of your site, e.g. /blog
