@@ -6,6 +6,8 @@ The files for the NABES website are hosted here. You can look at the rendered si
 
 The NABES website uses github actions to automatically build and redelopy the https://uk-nabes.github.io site when changes are made to the `main` branch of the repository. 
 
+You can etiher edit a file locally and upload files, or add files in the web interface to github. Either way is fine!
+
 ### Some details about the site setup
 
 The site uses [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll), a simple way to build a site using only [markdown](https://daringfireball.net/projects/markdown/basics) (plain text) files.
