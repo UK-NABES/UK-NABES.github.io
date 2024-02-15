@@ -6,8 +6,8 @@ permalink: /resources/
 
 Here is a list of resources.
 
-## How to add your own profile to this website
-![](img/youtube.png){width="25"} [video walkthrough](https://youtu.be/mu9UgfF2ft4) :: [slides](files/Github.pptx)
+## Edit your own profile
+<img src='img/youtube.png' width='25'> [video walkthrough](https://youtu.be/mu9UgfF2ft4) :: [slides](files/Github.pptx)
 
 # Modelling
 
