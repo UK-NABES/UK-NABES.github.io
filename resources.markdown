@@ -7,7 +7,7 @@ permalink: /resources/
 Here is a list of resources.
 
 ## Edit your own profile
-<img src='img/youtube.png' width='25'> [video walkthrough](https://youtu.be/mu9UgfF2ft4) :: [slides](files/Github.pptx)
+![](img/youtube.png) [video walkthrough](https://youtu.be/mu9UgfF2ft4) :: [slides](files/Github.pptx)
 
 # Modelling
 
