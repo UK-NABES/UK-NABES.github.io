@@ -1,0 +1,8 @@
+---
+name: Andrew Mead
+shortname: AM
+website: https://www.rothamsted.ac.uk/people/andrew-mead
+image: am.jpg
+---
+
+Head of Statistics at Rothamsted Station, Andrew enjoys promoting the application and development of statistical and mathematical approaches to add value to the wide range of biological research at Rothamsted Research, and more widely within the life sciences. He is particularly interested in the statistical topics of the design of experiments, statistical (regression) modelling, and multivariate statistical approaches. He has applied this expertise in seed viability and germination, insect pest and plant disease studies, plant nutrition, modelling the weed life cycle, gene expression studies, landscape-scale impacts of bioenergy on ecosystem service, and mushroom production. He is also interested in the development of training courses and materials for non-statisticians. He would like to provide biological researchers with an appropriate statistical background knowledge and awareness of the potential for the application of statistical approaches to enhance their research. One current research area is the multivariate analysis and statistical modelling of metagenomics data, with applications to the spatial variation of communities of antibiotic resistance genes in river catchments, and to the soil microbial communities found in different agricultural growing environments. A second current research area is the statistical design of long-term field trials to assess metrics of sustainability, and the development to model-based analyses of data from long-term experiments.
