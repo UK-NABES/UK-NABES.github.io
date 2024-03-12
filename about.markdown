@@ -6,8 +6,8 @@ permalink: /about/
 
 The vision of the Network of Agricultural, Biological and Environmental
 Statisticians (NABES) is to establish a UK-wide network of quantitative experts
-working in applied agricultural, biological and environmental sciences, with the
-principal aim of developing a community of practice through the sharing of
+working in applied agricultural, biological and environmental sciences, with
+the principal aim of developing a community of practice through the sharing of
 statistical and biomathematical expertise and resources.
 
 Many applied research and implementation organisations have small numbers of
