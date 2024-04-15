@@ -5,7 +5,7 @@ date:   2024-03-31 18:00:00 +0000
 categories: news
 ---
 
-<p><img src="img/Networking OrangeBluev1.jpg" alt="Networking Sketch" width=200px hspace="20" vspace="20" style="float:left">
+<img src="img/Networking OrangeBluev1.jpg" alt="Networking Sketch" width=200px hspace="20" vspace="20" style="float:left">
 
 After the NABES conference in October 2023 we decided that it would be a great idea if the community could have an opportunity to meet every month in a virtual interactive workshop. The list of future events can be found [here](/events)   
 
