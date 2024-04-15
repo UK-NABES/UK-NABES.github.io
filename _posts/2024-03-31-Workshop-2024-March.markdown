@@ -15,7 +15,7 @@ In the March meeting the main focus was on getting to know each other better.  T
 
 * Colin Birch (Animal and Plant Health Agency) shared a new [paper](https://www.nature.com/articles/s41598-024-54062-4.pdf) he published in Nature Scientific Reports on Badger Control policy. He stated that it was a different way of tackling the difference-in-difference approach.
 
-* Oli Pescott (UKCEH) shared a pre-print “[Towards a unified approach to formal risk of bias assessments for causal and descriptive inference](https://arxiv.org/abs/2308.11458)” He invited comments and contributions from people as he would like to further develop it before submitting to peer review.
+* Oli Pescott (UKCEH) shared a pre-print [Towards a unified approach to formal risk of bias assessments for causal and descriptive inference](https://arxiv.org/abs/2308.11458) He invited comments and contributions from people as he would like to further develop it before submitting to peer review.
 
 # Interesting websites/packages etc
 
