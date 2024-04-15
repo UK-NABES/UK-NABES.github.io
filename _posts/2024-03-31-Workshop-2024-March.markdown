@@ -7,7 +7,7 @@ categories: news
 
 <img src="/img/NetworkOrangeBlueScanv1.PNG" alt="Networking Sketch" width=350px align = "right"> 
 
-In October 2023 the network met for its first conference. There were lots of great discussions. and we wanted to find a way to build more connections between network members. 
+In October 2023 the network met for its first conference. There were lots of great discussions and we wanted to find a way to continue to build more connections between network members. 
 
 We decided that it would be a great idea if the NABES community could have an opportunity to meet every month in a virtual interactive workshop. We are developing a [program](/events) of monthly workshops.
 
