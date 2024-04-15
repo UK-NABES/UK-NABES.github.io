@@ -6,9 +6,9 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 17 April_   **Building a shared careers talk for NABES**
+* _Wednesday 17 April_   Building a shared careers talk for NABES
 
-# Proposed Future Events:
+# Proposed Events
 
 ## 2024
 * _Wednesday 8 May_ **Journal Club -  Communicating Uncertainty**
