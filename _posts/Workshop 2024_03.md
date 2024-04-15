@@ -5,7 +5,9 @@ date:   2024-03-31 18:00:00 +0000
 categories: news
 ---
 
-After the NABES conference in October 2023 we decided that it would be a great idea if the community could have an opportunity to meet every month in a virtual interactive workshop. The list of future events can be found here
+After the NABES conference in October 2023 we decided that it would be a great idea if the community could have an opportunity to meet every month in a virtual interactive workshop. The list of future events can be found [here](/events)
+
+<p><img src="img/Networking OrangeBluev1.jpg" alt="Networking Sketch" width=200px hspace="20" vspace="20" style="float:left">
 
 In the March meeting the main focus was on getting to know each other better.  This included a randomly allocated 10 minute 1-1 chat with someone and a Round Table where everyone shared their latest news and projects. Some things that were shared included:
 
