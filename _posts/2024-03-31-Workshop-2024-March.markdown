@@ -7,11 +7,11 @@ categories: news
 
 <p><img src="img/Networking OrangeBluev1.jpg" alt="Networking Sketch" width=200px hspace="20" vspace="20" style="float:left">
 
-After the NABES conference in October 2023 we decided that it would be a great idea if the community could have an opportunity to meet every month in a virtual interactive workshop. The list of future events can be found [here](/events)
+After the NABES conference in October 2023 we decided that it would be a great idea if the community could have an opportunity to meet every month in a virtual interactive workshop. The list of future events can be found [here](/events)   
 
-In the March meeting the main focus was on getting to know each other better.  This included a randomly allocated 10 minute 1-1 chat with someone and a Round Table where everyone shared their latest news and projects. Some things that were shared included:
+In the March meeting the main focus was on getting to know each other better.  This included a randomly allocated 10 minute 1-1 chat with someone and a Round Table where everyone shared their latest news and projects. Some things that were shared included:  
 
-# Papers
+# Papers  
 
 * Colin Birch (Animal and Plant Health Agency) shared a new [paper](https://www.nature.com/articles/s41598-024-54062-4.pdf) he published in Nature Scientific Reports on Badger Control policy. He stated that it was a different way of tackling the difference-in-difference approach.
 
