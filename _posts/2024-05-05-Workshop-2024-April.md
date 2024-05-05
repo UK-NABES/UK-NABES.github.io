@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "April 2024: Workshop Summary"
-date: 2024-05-05 20:26:00 -0000
+date: 2024-05-04 20:26:00 -0000
 categories: news
 ---
 
