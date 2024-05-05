@@ -6,12 +6,11 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 17 April_   Building a shared careers talk for NABES
+* _Wednesday 8 May_ **Journal Club -  Communicating Uncertainty**
 
 # Proposed Events
 
 ## 2024
-* _Wednesday 8 May_ **Journal Club -  Communicating Uncertainty**
 
 * _Wednesday 12 June_ **Learning from other networks - NIHR Stats Group**
 
@@ -34,6 +33,8 @@ permalink: /events/
 # Past Events
 
 ## 2024
+* _April_  [Building a shared careers talk for NABES](_posts/2024-05-05-Workshop-2024-April.markdown)
+  
 * _March_  [Round Table](_posts/2024-03-31-Workshop-2024-March.markdown)
 
 * _February_  **Learning to use Github**
