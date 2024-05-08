@@ -6,13 +6,12 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 8 May_ **Journal Club -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
+* _Wednesday 12 June_ **Learning from other networks - NIHR Stats Group**
+
 
 # Proposed Events
 
 ## 2024
-
-* _Wednesday 12 June_ **Learning from other networks - NIHR Stats Group**
 
 * _July_  **Talking to academics** (tentative)
 
@@ -33,7 +32,9 @@ permalink: /events/
 # Past Events
 
 ## 2024
-* _April_  [Building a shared careers talk for NABES](_posts/2024-05-05-Workshop-2024-April.markdown)
+* _May_ **Journal Club -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
+
+* _April_  [Building a shared careers talk for NABES](_posts/2024-05-05-Workshop-2024-April.md)
   
 * _March_  [Round Table](_posts/2024-03-31-Workshop-2024-March.markdown)
 
