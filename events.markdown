@@ -6,7 +6,7 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 8 May_ **Journal Club -  Communicating Uncertainty**
+* _Wednesday 8 May_ **Journal Club -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
 
 # Proposed Events
 
