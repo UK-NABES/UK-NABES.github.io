@@ -1,5 +1,7 @@
 # `UK-NABES`
 
+Join us or attend a meeting to see what we are all about! We have a [JISCM@il email list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=UKNABES) which you can [Subscribe/Unsubscribe to here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UKNABES&A=1).
+
 The files for the NABES website are hosted here. You can look at the rendered site at https://uk-nabes.github.io.
 
 ## Contributing to the site
