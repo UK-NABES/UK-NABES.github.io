@@ -6,17 +6,12 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 12 June_ **Learning from other networks - NIHR Stats Group**
+* _August_  **Round Table** 
 
 
 # Proposed Events
 
 ## 2024
-
-* _July_  **Talking to academics** (tentative)
-
-* _August_  **Round Table** 
-
 * _September_  **Journal Club** 
 
 * _October_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
@@ -32,6 +27,10 @@ permalink: /events/
 # Past Events
 
 ## 2024
+* _July_  **Working with academics** 
+
+* _June_ **[Learning from other networks - NIHR Stats Group](_posts/2024-06-22-Workshop-2024-June.md)**
+
 * _May_ **[Journal Club](_posts/2024-05-22-Workshop-2024-May.md) -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
 
 * _April_ **[Building a shared careers talk for NABES](_posts/2024-05-05-Workshop-2024-April.md)**
