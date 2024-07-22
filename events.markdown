@@ -27,7 +27,7 @@ permalink: /events/
 # Past Events
 
 ## 2024
-* _July_  **Working with academics** 
+* _July_  **[Working with academics](_posts/2024-07-03-Workshop-2024-July.md)** 
 
 * _June_ **[Learning from other networks - NIHR Stats Group](_posts/2024-06-22-Workshop-2024-June.md)**
 
