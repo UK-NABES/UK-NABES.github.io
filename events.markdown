@@ -12,17 +12,17 @@ permalink: /events/
 # Proposed Events
 
 ## 2024
-* _11 September_  **Journal Club** 
+* _Wednesday 11 September 10am_  **Journal Club** 
 
-* _16 October_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
+* _Wednesday 16 October 2:30pm_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
 
-* _11 November_  **Impact of AI on statistical careers**
+* _Monday 11 November 2pm_  **Impact of AI on statistical careers**
 
-* _11 December_  **Journal Club**
+* _Wednesday 11 December 10am_  **Journal Club**
 
 ## 2025
 
-* _15 January_   **Round Table**
+* _Wednesday 15 January 2:30pm_   **Round Table**
 
 # Past Events
 
