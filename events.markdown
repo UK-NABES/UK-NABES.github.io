@@ -6,23 +6,23 @@ permalink: /events/
 
 # Next Event
 
-* _August_  **Round Table** 
+* _Monday 12 August 2pm_  **Round Table** 
 
 
 # Proposed Events
 
 ## 2024
-* _September_  **Journal Club** 
+* _11 September_  **Journal Club** 
 
-* _October_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
+* _16 October_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
 
-* _November_  **Impact of AI on statistical careers**
+* _11 November_  **Impact of AI on statistical careers**
 
-* _December_  **Journal Club**
+* _11 December_  **Journal Club**
 
 ## 2025
 
-* _January_   **Round Table**
+* _15 January_   **Round Table**
 
 # Past Events
 
