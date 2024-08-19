@@ -6,15 +6,13 @@ permalink: /events/
 
 # Next Event
 
-* _Monday 12 August 2pm_  **Round Table** 
-
+* _Wednesday 18 September 2:30pm_  **Journal Club - Indicators** 
 
 # Proposed Events
 
 ## 2024
-* _Wednesday 11 September 10am_  **Journal Club** 
 
-* _Wednesday 16 October 2:30pm_  **Statistical practice in Environmental, Agricultural and Biological Statistics**
+* _Wednesday 16 October 2:30pm_  **Statistical practice - Different approaches to environmental modelling**
 
 * _Monday 11 November 2pm_  **Impact of AI on statistical careers**
 
@@ -27,6 +25,9 @@ permalink: /events/
 # Past Events
 
 ## 2024
+
+* _Monday 12 August 2pm_  **Round Table**
+
 * _July_  **[Working with academics](_posts/2024-07-03-Workshop-2024-July.md)** 
 
 * _June_ **[Learning from other networks - NIHR Stats Group](_posts/2024-06-22-Workshop-2024-June.md)**
