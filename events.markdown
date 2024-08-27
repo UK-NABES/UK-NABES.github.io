@@ -26,7 +26,7 @@ permalink: /events/
 
 ## 2024
 
-* _Monday 12 August 2pm_  **Round Table**
+* _August_  **[Round Table](_posts/2024-08-12-Workshop-2024-August.md)**
 
 * _July_  **[Working with academics](_posts/2024-07-03-Workshop-2024-July.md)** 
 
