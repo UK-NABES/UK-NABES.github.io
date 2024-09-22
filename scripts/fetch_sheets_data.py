@@ -18,7 +18,7 @@ client = gspread.authorize(creds)
 spreadsheet_id = os.getenv('GOOGLE_SHEETS_ID')
 
 # Open the Google Sheet
-sheet = client.open_by_key(spreadsheet_id).worksheet('Form Responses 1')  # Adjust the sheet name if needed
+sheet = client.open_by_key(spreadsheet_id).worksheet('Form responses 1')  # Adjust the sheet name if needed
 
 # Fetch all rows (form responses)
 rows = sheet.get_all_values()
