@@ -3,5 +3,4 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 requests
-datetime
-mimetype
+google-api-python-client
