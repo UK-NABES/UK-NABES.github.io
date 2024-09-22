@@ -25,7 +25,7 @@ sheet = client.open_by_key(spreadsheet_id).worksheet('Form responses 1')  # Adju
 rows = sheet.get_all_values()
 
 # Path to the _people directory and last_processed file
-people_dir = '../_people'
+people_dir = '_people'
 last_processed_file = 'last_processed.txt'
 
 # Ensure the _people directory exists
