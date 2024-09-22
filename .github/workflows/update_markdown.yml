@@ -1,10 +1,4 @@
 name: Update Markdown from Google Sheets
-run: |
-  git config --local user.email "your-email@example.com"
-  git config --local user.name "GitHub Action"
-  git add _people/*.md _people/*.{png,jpg,jpeg}
-  git commit -m "Update markdown with new Google Sheets data"
-  git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/UK-NABES/UK-NABES.github.io.git
 
 on:
   schedule:
@@ -37,6 +31,6 @@ jobs:
       run: |
         git config --local user.email "your-email@example.com"
         git config --local user.name "GitHub Action"
-        git add .
+        git add _people/*.md _people/*.{png,jpg,jpeg}
         git commit -m "Update markdown with new Google Sheets data"
-        git push
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/UK-NABES/UK-NABES.github.io.git
