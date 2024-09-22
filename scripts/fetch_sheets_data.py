@@ -39,6 +39,9 @@ if os.path.exists(last_processed_file):
 else:
     last_processed = '1970-01-01 00:00:00'  # Default starting point
 
+# Debugging: Log the last processed timestamp
+print(f"Last processed timestamp: {last_processed}")
+
 # Convert the last processed timestamp to a datetime object (format: 'YYYY-MM-DD HH:MM:SS')
 last_processed_dt = datetime.strptime(last_processed, '%Y-%m-%d %H:%M:%S')
 
@@ -82,6 +85,7 @@ for row in rows[1:]:  # Skip the header row
     # Convert Google Sheet timestamp to datetime object (format: 'DD/MM/YYYY HH:MM:SS')
     try:
         entry_timestamp_dt = datetime.strptime(timestamp, '%d/%m/%Y %H:%M:%S')
+        print(f"Parsed Google Sheet timestamp as: {entry_timestamp_dt}")
     except ValueError:
         print(f"Skipping row due to invalid timestamp: {timestamp}")
         continue  # Skip entries with invalid timestamps
@@ -147,7 +151,8 @@ image: {image_filename}
     else:
         print(f"Skipping {name}, as the entry is older than the last processed timestamp.")
 
-# After processing, update the last processed timestamp in 'YYYY-MM-DD HH:MM:SS' format
+# Debugging: Log the latest processed timestamp and update the last_processed.txt file
+print(f"Updating last processed timestamp to: {latest_processed_dt}")
 with open(last_processed_file, 'w') as f:
     f.write(latest_processed_dt.strftime('%Y-%m-%d %H:%M:%S'))
 
