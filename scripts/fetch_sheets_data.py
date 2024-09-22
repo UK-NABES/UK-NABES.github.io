@@ -15,10 +15,6 @@ scope = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis
 creds = Credentials.from_service_account_info(google_sheets_credentials, scopes=scope)
 client = gspread.authorize(creds)
 
-# Google Drive API setup
-from googleapiclient.discovery import build
-drive_service = build('drive', 'v3', credentials=creds)
-
 # Get the Google Sheets ID from environment variable (GitHub secret)
 spreadsheet_id = os.getenv('GOOGLE_SHEETS_ID')
 
@@ -36,13 +32,14 @@ last_processed_file = 'last_processed.txt'
 if not os.path.exists(people_dir):
     os.makedirs(people_dir)
 
-# Read the last processed timestamp
+# Read the last processed timestamp (format: 'YYYY-MM-DD HH:MM:SS')
 if os.path.exists(last_processed_file):
     with open(last_processed_file, 'r') as f:
-        last_processed = f.read().strip()  # Get the last processed timestamp
+        last_processed = f.read().strip()
 else:
     last_processed = '1970-01-01 00:00:00'  # Default starting point
 
+# Convert the last processed timestamp to a datetime object (format: 'YYYY-MM-DD HH:MM:SS')
 last_processed_dt = datetime.strptime(last_processed, '%Y-%m-%d %H:%M:%S')
 
 # Track the latest timestamp processed during this run
@@ -72,21 +69,26 @@ def download_image_from_drive(file_id, destination):
 
 # Loop through the rows (skipping the header row) and create a markdown file for new entries only
 for row in rows[1:]:  # Skip the header row
-    timestamp = row[0].strip()  # Timestamp
+    timestamp = row[0].strip()  # Timestamp from Google Sheet in 'DD/MM/YYYY HH:MM:SS' format
     name = row[2].strip()  # Name (example: Ronald Fisher)
     personal_info = row[3].strip()  # Personal information
     website = row[4].strip()  # Website URL
     image_url = row[5].strip()  # Google Drive Image URL
     email = row[6].strip()  # Email
 
-    # Convert timestamp to datetime object
+    # Debugging: Log the timestamp and row info
+    print(f"Processing row with timestamp: {timestamp} and name: {name}")
+
+    # Convert Google Sheet timestamp to datetime object (format: 'DD/MM/YYYY HH:MM:SS')
     try:
         entry_timestamp_dt = datetime.strptime(timestamp, '%d/%m/%Y %H:%M:%S')
     except ValueError:
+        print(f"Skipping row due to invalid timestamp: {timestamp}")
         continue  # Skip entries with invalid timestamps
 
     # Only process entries that are newer than the last processed entry
     if entry_timestamp_dt > last_processed_dt:
+        print(f"Processing new entry for {name}")
         # Update the latest processed timestamp
         if entry_timestamp_dt > latest_processed_dt:
             latest_processed_dt = entry_timestamp_dt
@@ -106,6 +108,7 @@ for row in rows[1:]:  # Skip the header row
 
         # Download the image from Google Drive if file_id exists
         if file_id:
+            print(f"Downloading image for {name} from Google Drive ID: {file_id}")
             download_image_from_drive(file_id, image_filepath)
 
             # Attempt to detect the correct extension based on the MIME type
@@ -141,7 +144,10 @@ image: {image_filename}
 
         print(f"Markdown file created: {filename}")
 
-# After processing, update the last processed timestamp
+    else:
+        print(f"Skipping {name}, as the entry is older than the last processed timestamp.")
+
+# After processing, update the last processed timestamp in 'YYYY-MM-DD HH:MM:SS' format
 with open(last_processed_file, 'w') as f:
     f.write(latest_processed_dt.strftime('%Y-%m-%d %H:%M:%S'))
 
