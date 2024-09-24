@@ -6,7 +6,7 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 16 October 2:30pm_  **Statistical practice - Different approaches to environmental modelling**
+* _Wednesday 16 October 2:30pm_  **Statistical practice: Greenhouse Gas Inventory – Doing science under political scrutiny**
 
 # Proposed Events
 
