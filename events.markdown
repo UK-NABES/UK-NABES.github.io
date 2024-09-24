@@ -6,13 +6,11 @@ permalink: /events/
 
 # Next Event
 
-* _Wednesday 18 September 2:30pm_  **Journal Club - Indicators** 
+* _Wednesday 16 October 2:30pm_  **Statistical practice - Different approaches to environmental modelling**
 
 # Proposed Events
 
 ## 2024
-
-* _Wednesday 16 October 2:30pm_  **Statistical practice - Different approaches to environmental modelling**
 
 * _Monday 11 November 2pm_  **Impact of AI on statistical careers**
 
@@ -25,6 +23,8 @@ permalink: /events/
 # Past Events
 
 ## 2024
+
+* _September_  **[NABES Peer Support](_posts/2024-09-18-Workshop-2024-September.md)** 
 
 * _August_  **[Round Table](_posts/2024-08-12-Workshop-2024-August.md)**
 
