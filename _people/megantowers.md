@@ -10,7 +10,7 @@ image: MeganTowers.jpg
 
  
 
-**Organisation:** NatureScot  
+**Organisation:** [NatureScot](https://www.nature.scot/)
 
 **Location:** Inverness  
 
@@ -18,4 +18,3 @@ image: MeganTowers.jpg
 
 **NatureScot role:** Help with the production NatureScot’s [Official Statistics](https://www.nature.scot/information-hub/official-statistics) and other reporting requirements.  Provide statistics advice to my colleagues, which covers a wide range of nature conservation, ecology, and the environment.  Network lead for NatureScot’s Disability, Ability, Wellbeing and Neurodiversity Network.   
 
-More information on the [NatureScot website](https://www.nature.scot/) 
