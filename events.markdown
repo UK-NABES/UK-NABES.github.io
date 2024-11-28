@@ -6,15 +6,9 @@ permalink: /events/
 
 # Next Event
 
-* _Monday 18 November 2pm_  **Impact of AI on statistical careers**
+* _Wednesday 11 December 10am_ **Interactive workshop: NABES Networking**
 
 # Proposed Events
-
-## 2024
-
-* _Thursday 27 November 3:00-3:45pm_ **Informal NABES Chat and peer support group**
-
-* _Wednesday 11 December 10am_ **Interactive workshop: NABES Networking**
 
 ## 2025
 
@@ -24,7 +18,11 @@ permalink: /events/
 
 ## 2024
 
+* _November_  **Impact of AI on statistical careers**
+* _November_  **Informal NABES Chat and peer support group - Nov**
+
 * _October_  **[Statistical practice: Greenhouse Gas Inventory – Improvements, impact, policy implications](_posts/2024-10-16-Workshop-2024-October.md)**
+* _October_  **Informal NABES Chat and peer support group - Oct**
   
 * _September_  **[NABES Peer Support](_posts/2024-09-18-Workshop-2024-September.md)** 
 
