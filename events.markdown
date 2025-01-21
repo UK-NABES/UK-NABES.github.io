@@ -6,18 +6,17 @@ permalink: /events/
 
 # Next Events
 
-* _Wednesday 15 January 2:30pm_ **Forward-looking round table**
-
 * _Monday 27 January 2pm_ **Informal NABES chat**
 
+*	_Wednesday 12 February 2:30pm_ **Journal Club: Indicators – [Freeman et al. (2021) JABES](https://doi.org/10.1007/s13253-020-00410-6)**
 
-# Proposed Events
+*	_Wednesday 26 February 2pm_ **Informal NABES chat**
+
+# Past Events  
 
 ## 2025
+* _January_ **Forward-looking round table**
 
-*	_Wednesday 12 February 2:30pm_ **Journal Club: Indicators – [Freeman et al. (2021) JABES](https://doi.org/10.1007/s13253-020-00410-6)**  
-
-# Past Events
 
 ## 2024
 
