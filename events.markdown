@@ -6,8 +6,6 @@ permalink: /events/
 
 # Next Events
 
-* _Monday 27 January 2pm_ **Informal NABES chat**
-
 *	_Wednesday 12 February 2:30pm_ **Journal Club: Indicators – [Freeman et al. (2021) JABES](https://doi.org/10.1007/s13253-020-00410-6)**
 
 *	_Wednesday 26 February 2pm_ **Informal NABES chat**
@@ -16,11 +14,11 @@ permalink: /events/
 
 ## 2025
 * _January_ **Forward-looking round table**
-
+* _January_  **Informal NABES Chat and peer support group - Jan**
 
 ## 2024
 
-* _December_ **Interactive workshop: NABES Networking**
+* _December_ **[Interactive workshop: NABES Networking](_posts/2024-12-11-Workshop-2024-December.md)**
 
 * _November_  **[Impact of AI on statistical careers](_posts/2024-11-18-Workshop-2024-November.md)**
 * _November_  **Informal NABES Chat and peer support group - Nov**
