@@ -8,7 +8,7 @@ permalink: /events/
 
 * _Wednesday 26 March 11am -_ **Informal NABES chat and peer support**
   
-* _Wednesday 9 April 10am -_ **Study design: How can we help?**
+* _Wednesday 9 April 10am -_ **Designing scientific studies: How can NABES help?**
   
 * _Monday 28 April 2pm -_ **Informal NABES chat and peer support**
   
@@ -16,13 +16,16 @@ permalink: /events/
 ## Past Events  
 
 ### 2025
-* _January -_ **[Forward-looking round table](_posts/2025-01-31-Workshop-2025-January.markdown)**
-* _January -_  **Informal NABES Chat and peer support - Jan**
+
+*	_March -_ **Building Statistical Literacy**
 
 * _February -_ **[Journal Club: Multispecies Indicators](_posts/2025-02-12-Workshop-2025-February.md)**
 *	_February -_ **Informal NABES chat and peer support - Feb**
 
-*	_March -_ **Building Statistical Literacy**
+* _January -_ **[Forward-looking round table](_posts/2025-01-31-Workshop-2025-January.markdown)**
+* _January -_  **Informal NABES Chat and peer support - Jan**
+
+
 
 ### 2024
 
