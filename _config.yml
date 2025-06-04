@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Network of Agricultural, Biological and Environmental Statistics
-email: dave.miller@bioss.ac.uk
+email: nabescontact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Unless otherwise stated, all material availble on this site is made available under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 license</a>, and is copyright of the content creator (© 2024). 
+  Unless otherwise stated, all material availble on this site is made available under a <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 license</a>, and is copyright of the content creator (© 2024). This site was built by Dave Miller.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://UK-NABES.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  UK-NABES
