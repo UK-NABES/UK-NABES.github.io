@@ -12,4 +12,4 @@ working in applied agricultural, biological and environmental sciences, with
 the principal aim of developing a community of practice through the sharing of
 statistical and biomathematical expertise and resources.
 
-Join us or attend a meeting to see what we are all about! We have a [JISCM@il email list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=UKNABES) which you can [Subscribe/Unsubscribe to here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UKNABES&A=1).
+Join us or attend a meeting to see what we are all about! We have a [JISCM@il email list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=UKNABES) which you can [Subscribe/Unsubscribe to here](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=UKNABES&A=1). You can also reach us at <nabescontact@gmail.com>. 
