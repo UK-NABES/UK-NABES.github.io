@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "December 2024: Workshop Summary"
+title: "December 2024 Workshop Summary: Career Development Networking"
 date: 2024-12-11 17:26:00 -0000
 categories: news
 ---
 
-## Career development networking
 
 <img src="/img/DecemberBlogPicture.jpg" alt="career development sketch" width=450px align = "right"> 
 
