@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "October 2024: Workshop Summary"
+title: "October 2024 Workshop Summary: UK GHG Inventory- Improvements, Impact, Policy Implications"
 date: 2024-10-30 17:26:00 -0000
 categories: news
 ---
 
-
-**UK GHG Inventory: Improvements, impact, policy implications**  
 
 <img src="/img/Oct24BlogPicture.png" alt="peer support sketch" width=350px align = "right"> 
 
