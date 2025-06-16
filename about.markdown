@@ -23,3 +23,7 @@ scientists or otherwise – will have access to peer support and potential
 collaborators to enable better use of expensively collected and maintained data
 sets, and provide better value for funders.
 
+## Committees 
+Our committees include these members  
+<img src="/img/nabescommittees.jpg" alt="committees members" width=750px>
+
