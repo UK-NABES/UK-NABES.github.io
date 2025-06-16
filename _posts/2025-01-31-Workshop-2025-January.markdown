@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "January 2025: Workshop Summary"
+title:  "January 2025 Workshop Summary: Round Table"
 date:   2025-01-31 18:00:00 +0000
 categories: news
 ---
