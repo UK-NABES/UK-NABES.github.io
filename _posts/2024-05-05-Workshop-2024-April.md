@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "April 2024: Workshop Summary"
+title: "April 2024 Workshop Summary: Building a shared careers talk for NABES"
 date: 2024-05-04 20:26:00 -0000
 categories: news
 ---
 
 <img src="/img/AprilBlogPicture.jpg" alt="Networking Sketch" width=350px align = "right"> 
-
-
-**Building a shared careers talk for NABES**  
+  
 
 Prompted by earlier observations of difficulties recruiting for environmental and agricultural statistics roles, Peter Henrys (UKCEH) is leading the development of a NABES careers talk. The aim is to collectively put together a slide pack which can be delivered by anyone in the network, with hopes of increasing the visibility of statistics in environmental and agricultural sectors as a career path for graduates. 
 
