@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "March 2024: Workshop Summary"
+title:  "March 2024 Workshop Summary: Round Table"
 date:   2024-03-31 18:00:00 +0000
 categories: news
 ---
