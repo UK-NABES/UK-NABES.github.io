@@ -22,7 +22,7 @@ permalink: /events/
 * _June -_ **Round Table**
 
 * _May -_ **Interactive Workshop: AI Practical**
-* May -_ **Informal NABES chat and peer support - May**
+* _May -_ **Informal NABES chat and peer support - May**
 
 *	_April -_ **[Designing scientific studies: How can NABES help?](_posts/2025-04-09-Workshop-2025-April.md)**
 * _April -_ **Informal NABES chat and peer support - Apr**
