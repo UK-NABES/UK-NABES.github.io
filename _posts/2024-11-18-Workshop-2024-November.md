@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "November 2024: Workshop Summary"
+title: "November 2024 Workshop Summary: Impact of AI on statistical careers"
 date: 2024-11-30 17:26:00 -0000
 categories: news
 ---
 
-## Impact of AI on statistical careers
 
 <img src="/img/NovemberBlogPicture.jpg" alt="AI sketch" width=350px align = "right"> 
 
