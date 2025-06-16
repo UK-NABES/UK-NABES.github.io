@@ -6,20 +6,23 @@ permalink: /events/
 
 # Next Events
 
-* _Thursday 29 May 1:30pm -_ **Informal NABES chat and peer support**
-  
-* _Wednesday 11 June 2:30pm -_ **Round Table**
-
 * _Thursday 26 June 1:30pm -_ **Informal NABES chat and peer support**
 
-* _Wednesday 9 July 10am -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders**
+* _Wednesday 9 July 10am -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
+
+*_Wednesday 23 July 2pm -_ **Informal NABES chat and peer support**
+
+* _August -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The science-policy interface view**
 
 
 ## Past Events  
 
 ### 2025
 
+* _June -_ **Round Table**
+
 * _May -_ **Interactive Workshop: AI Practical**
+* May -_ **Informal NABES chat and peer support - May**
 
 *	_April -_ **[Designing scientific studies: How can NABES help?](_posts/2025-04-09-Workshop-2025-April.md)**
 * _April -_ **Informal NABES chat and peer support - Apr**
