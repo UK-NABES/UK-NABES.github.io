@@ -10,7 +10,7 @@ permalink: /events/
 
 * _Wednesday 9 July 10am -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
 
-*_Wednesday 23 July 2pm -_ **Informal NABES chat and peer support**
+* _Wednesday 23 July 2pm -_ **Informal NABES chat and peer support**
 
 * _August -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The science-policy interface view**
 
