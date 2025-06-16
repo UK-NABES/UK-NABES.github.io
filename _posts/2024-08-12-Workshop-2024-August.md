@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2024: Workshop Summary"
+title: "August 2024 Workshop Summary: Round Table"
 date: 2024-08-12 17:26:00 -0000
 categories: news
 ---
