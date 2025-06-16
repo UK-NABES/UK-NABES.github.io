@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "September 2024: Workshop Summary"
+title: "September 2024 Workshop Summary: NABES Peer Support"
 date: 2024-09-18 17:26:00 -0000
 categories: news
 ---
 
-
-**NABES Peer Support**  
 
 <img src="/img/SepBlogPic.jpg" alt="peer support sketch" width=350px align = "right"> 
 
