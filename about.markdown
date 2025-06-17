@@ -25,5 +25,5 @@ sets, and provide better value for funders.
 
 ## Committees 
 Our committees include these members  
-<img src="/img/nabescommittees.jpg" alt="committees members" width=750px>
+<img src="/img/CommitteesMembers.jpg" alt="committees members" width=750px>
 
