@@ -11,7 +11,7 @@ Here is a list of resources.
 
 # Modelling
 
-## Generalized additive modelling
+### Generalized additive modelling
 
 - [Noam Ross' GAM course](https://noamross.github.io/gams-in-r-course/)
 - [Gavin Simpson's GAM YouTube lectures](https://www.youtube.com/watch?v=sgw4cu8hrZM)
@@ -19,18 +19,18 @@ Here is a list of resources.
 
 # Computing
 
-## R general
+### R general
 
 - [Posit "cheatsheets" for various R packages](https://posit.co/resources/cheatsheets/)
 
-## RMarkdown
+### RMarkdown
 
 - [RStudio RMarkdown introduction](https://rmarkdown.rstudio.com/articles_intro.html)
 
 
 # AI Practical 
 - Resources from our [AI Practical in May 2025](_posts/2025-05-12-Workshop-2025-May.md).
-- [AI Primer slides (provided by Brett Drury, Rothamsted)](files/AI Primer.pdf)
+- [AI Primer slides (provided by Brett Drury, Rothamsted)](files/AI_Primer.pdf)
 - [RNN Practical notes and code (provided by Nick Schurch and Joe Wilde, BIOSS)](https://drive.google.com/drive/folders/1nMi6OtzKJMRmiUXhxOKeBC1-9QZIwxxP?usp=drive_link)
 
 
