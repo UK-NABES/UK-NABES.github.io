@@ -29,7 +29,7 @@ Here is a list of resources.
 
 
 # AI Practical 
-- Resources from our [AI Practical in May 2025](_posts/2025-05-12-Workshop-2025-May.md).
+- Resources from our [AI Practical in May 2025](https://uk-nabes.github.io/news/2025/05/12/Workshop-2025-May.html).
 - [AI Primer slides (provided by Brett Drury, Rothamsted)](files/AI_Primer.pdf)
 - [RNN Practical notes and code (provided by Nick Schurch and Joe Wilde, BIOSS)](https://drive.google.com/drive/folders/1nMi6OtzKJMRmiUXhxOKeBC1-9QZIwxxP?usp=drive_link)
 
