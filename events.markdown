@@ -21,7 +21,7 @@ permalink: /events/
 * _June -_ **Informal NABES chat and peer support - Jun**
 
 
-* _May -_ **[Interactive Workshop: AI Practical](_posts/2025-05-12-Workshop-2025-May.md)**
+* _May -_ **[Interactive Workshop: AI Practical](https://uk-nabes.github.io/news/2025/05/12/Workshop-2025-May.html)**
 * _May -_ **Informal NABES chat and peer support - May**
 
 *	_April -_ **[Designing scientific studies: How can NABES help?](_posts/2025-04-09-Workshop-2025-April.md)**
