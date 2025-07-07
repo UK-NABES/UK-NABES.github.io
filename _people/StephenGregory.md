@@ -9,4 +9,4 @@ image: sg.png
 
 **Location:** Weymouth, UK
 
-**Profile:** I’m an ecologist, conservationist, fisheries scientists, and statistician. I have been fortunate to work in many wonderful places, with many wonderful people. I joined as a member of NABES in 2025.
+**Profile:** I’m an ecologist, conservationist, fisheries scientist, and statistician. I have been fortunate to work in many wonderful places, with many wonderful people. I joined as a member of NABES in 2025.
