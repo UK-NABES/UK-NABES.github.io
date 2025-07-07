@@ -28,5 +28,11 @@ Here is a list of resources.
 - [RStudio RMarkdown introduction](https://rmarkdown.rstudio.com/articles_intro.html)
 
 
+# AI Practical 
+- Resources from our [AI Practical in May 2025](_posts/2025-05-12-Workshop-2025-May.md).
+- [AI Primer slides (provided by Brett Drury, Rothamsted)](files/AI Primer.pdf)
+- [RNN Practical notes and code (provided by Nick Schurch and Joe Wilde, BIOSS)](https://drive.google.com/drive/folders/1nMi6OtzKJMRmiUXhxOKeBC1-9QZIwxxP?usp=drive_link)
+
+
 
 
