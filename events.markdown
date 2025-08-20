@@ -24,7 +24,7 @@ permalink: /events/
 * _July -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
 * _July -_ **Informal NABES chat and peer support - Jul**
 
-* _June -_ **Round Table**
+* _June -_ **[Round Table](_posts/2025-06-11-Workshop-2025-June.md)**
 * _June -_ **Informal NABES chat and peer support - Jun**
 
 * _May -_ **[Interactive Workshop: AI Practical](https://uk-nabes.github.io/news/2025/05/12/Workshop-2025-May.html)**
