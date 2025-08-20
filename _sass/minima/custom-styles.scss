@@ -1,0 +1,35 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+/** minima/initialize.scss */
+
+/** minima/_base.scss */
+
+/**
+  * Headings
+  */
+h1, h2, h3, h4, h5, h6 {
+    font-family: $headings-font-family;
+}
+
+/** minima/_layout.scss */
+
+@import 'minima/mixins';
+
+/**
+* Site header
+*/
+.site-header {
+    border-bottom: 1px solid $border-color-01;
+    min-height: $spacing-unit * 1.865;
+    line-height: $base-line-height * $base-font-size * 2.25;
+}
+
+.site-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+}
