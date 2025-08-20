@@ -23,6 +23,13 @@ scientists or otherwise – will have access to peer support and potential
 collaborators to enable better use of expensively collected and maintained data
 sets, and provide better value for funders.
 
+## Introductory Poster
+This poster summarises what our network is about - who it is for, our aims, types of activities we carry out, and how to get involved.  
+
+<img src="/img/NABES_Poster.jpg" alt="committees members" width=750px>  
+
+View a larger image [here](https://uk-nabes.github.io/files/NABES_Poster_EES_2025_Conference_PDFver.pdf).    
+
 ## Committees 
 Our committees include these members  
 <img src="/img/CommitteesMembers.jpg" alt="committees members" width=750px>
