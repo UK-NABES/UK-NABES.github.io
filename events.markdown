@@ -6,20 +6,26 @@ permalink: /events/
 
 # Next Events
 
-* _Wednesday 9 July 10am -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
+* _Tuesday 2 September 11.30-12.50 -_ **Helping statisticians thrive in the agricultural, biological and environmental sectors. RSS International Conference (in person), Edinburgh**
 
-* _Wednesday 23 July 2pm -_ **Informal NABES chat and peer support**
+* _Friday 19 September -_ **[Statistical Challenges in the Agri-Environment Sector](https://warwick.ac.uk/fac/sci/statistics/news/agri-environment-event2025/)** Organised jointly by the BIR (British and Irish Region of the International Biomertric Society) and UKNABES (in person), University of Warwick.
+  
+* _Monday 22 September 2pm -_ **Informal NABES chat and peer support**
 
-* _August -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The science-policy interface view**
+* _Wednesday 8 October 10am -_ **Informal NABES chat and peer support**
 
 
 ## Past Events  
 
 ### 2025
 
+* _August -_ **Consultancy Corner**
+
+* _July -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
+* _July -_ **Informal NABES chat and peer support - Jul**
+
 * _June -_ **Round Table**
 * _June -_ **Informal NABES chat and peer support - Jun**
-
 
 * _May -_ **[Interactive Workshop: AI Practical](https://uk-nabes.github.io/news/2025/05/12/Workshop-2025-May.html)**
 * _May -_ **Informal NABES chat and peer support - May**
