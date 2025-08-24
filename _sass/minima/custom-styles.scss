@@ -21,14 +21,26 @@ h1, h2, h3, h4, h5, h6 {
 * Site header
 */
 .site-header {
-    border-bottom: 1px solid $border-color-01;
+    border-bottom: 2px solid #168484;
 }
 
-.site-logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: $spacing-unit / 2;
-  padding-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit * 10 ;
+.site-title::before {
+    background-image: url(/assets/img/NABES_logo.png);
+    content: "";
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    top: 7px;
+    height: 32px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 8px;
+}
+
+
+/**
+* Site footer
+*/
+.site-footer {
+  background-color: #168484;
 }
