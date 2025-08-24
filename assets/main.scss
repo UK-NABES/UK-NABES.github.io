@@ -8,7 +8,7 @@
 * Site header
 */
 .site-header {
-    border-top: 3px solid #168484;
+    border-top: 5px solid #168484;
 }
 
 .site-title::before {
@@ -24,13 +24,9 @@
     margin-right: 8px;
 }
 
-.site-title {
-  color: #7A297E;
-}
-
 /**
 * Site footer
 */
 .site-footer.h-card {
-  border-top: 5px solid #168484;
+  border-bottom: 5px solid #7A297E;
 }
