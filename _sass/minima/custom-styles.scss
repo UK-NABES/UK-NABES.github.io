@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-title::before {
-    background-image: url(/assets/img/NABES_logo.png);
+    background-image: url('{{ site.baseurl }}/assets/img/NABES_logo.png');
     content: "";
     display: inline-block;
     position: relative;
@@ -41,6 +41,6 @@ h1, h2, h3, h4, h5, h6 {
 /**
 * Site footer
 */
-.site-footer {
+.site-footer.h-card {
   background-color: #168484;
 }
