@@ -13,16 +13,16 @@
 }
 
 .site-title::before {
-    background-image: url('{{ site.baseurl }}/assets/img/NABES_logo_full.png');
+    background-image: url('{{ site.baseurl }}/assets/img/NABES_logo.png');
     content: "";
     display: inline-block;
     position: relative;
-    width: 52px;
-    height: 52px;
+    width: 64px;
+    height: 64px;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-right: 5px;
-    top: 12px;
+    margin-right: 8px;
+    top: 8px;
 }
 
 /**
