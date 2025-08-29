@@ -13,13 +13,13 @@
 }
 
 .site-title::before {
-    background-image: url('{{ site.baseurl }}/assets/img/NABES_logo.png');
+    background-image: url('{{ site.baseurl }}/assets/img/NABES_logo_full.png');
     content: "";
     display: inline-block;
     position: relative;
-    width: 64px;
-    height: 64px;
-    background-size: cover;
+    width: 84px;
+    height: 84px;
+    background-size: contain;
     background-repeat: no-repeat;
     margin-right: 8px;
     top: 8px;
