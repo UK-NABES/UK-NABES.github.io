@@ -14,6 +14,8 @@ permalink: /events/
 
 * _Wednesday 8 October 10am -_ **Informal NABES chat and peer support**
 
+* _Wednesday 22 October 10am -_ **Communicating uncertainty, assumptions and caveats  - stakeholder and policy maker perspective**
+
 
 ## Past Events  
 
