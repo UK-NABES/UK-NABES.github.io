@@ -34,3 +34,6 @@ View a larger image [here](https://uk-nabes.github.io/files/Poster_RSS2025_Confe
 Our committees include these members  
 <img src="/img/CommitteesMembers.jpg" alt="committees members" width=550px>
 
+## Contact
+We can be reached at nabescontact@gmail.com or on [LinkedIn](linkedin.com/company/uk-nabes).
+
