@@ -6,12 +6,6 @@ permalink: /events/
 
 # Next Events
 
-* _Tuesday 2 September 11.30-12.50 -_ **Helping statisticians thrive in the agricultural, biological and environmental sectors. RSS International Conference (in person), Edinburgh**
-
-* _Friday 19 September -_ **[Statistical Challenges in the Agri-Environment Sector](https://warwick.ac.uk/fac/sci/statistics/news/agri-environment-event2025/)** Organised jointly by the BIR (British and Irish Region of the International Biomertric Society) and UKNABES (in person), University of Warwick.
-  
-* _Monday 22 September 2pm -_ **Informal NABES chat and peer support**
-
 * _Wednesday 8 October 10am -_ **Informal NABES chat and peer support**
 
 * _Wednesday 22 October 10am -_ **Communicating uncertainty, assumptions and caveats  - stakeholder and policy maker perspective**
@@ -21,9 +15,13 @@ permalink: /events/
 
 ### 2025
 
-* _August -_ **Consultancy Corner**
+* _September -_  **Helping statisticians thrive in the agricultural, biological and environmental sectors. RSS International Conference (in person), Edinburgh**
+* _September -_  **[Statistical Challenges in the Agri-Environment Sector](https://warwick.ac.uk/fac/sci/statistics/news/agri-environment-event2025/)** Organised jointly by the BIR (British and Irish Region of the International Biomertric Society) and UKNABES. In-person, University of Warwick.
+* September -_  **Informal NABES chat and peer support - Sep**
 
-* _July -_ **Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view**
+* _August -_ **[Consultancy Corner](https://uk-nabes.github.io/news/2025/08/19/Workshop-2025-August.html)**
+
+* _July -_ **[Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view](https://uk-nabes.github.io/news/2025/07/09/Workshop-2025-July.html)**
 * _July -_ **Informal NABES chat and peer support - Jul**
 
 * _June -_ **[Round Table](_posts/2025-06-11-Workshop-2025-June.md)**
