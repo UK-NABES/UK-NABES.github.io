@@ -6,30 +6,29 @@ permalink: /events/
 
 # Next Events
 
-* _Monday 10 November 1400 -_ **Informal NABES chat and peer support**
-
-* _Wednesday 17 November 1400 -_ **Events Highlights**
-
-* _Monday 8 December 1400 -_ **Art and Data Workshop**
-
-* _Monday 15 December 1445 -_ **Informal NABES chat and peer support**
-
-* _Wednesday 14 January 1430 -_ **Round Table**
-
 * _Thursday 29 January 1330 -_ **Informal NABES chat and peer support**
-
 
 
 ## Past Events  
 
+### 2026
+
+* _January -_  **Round Table**
+
 ### 2025
 
-* _October -_  **Communicating uncertainty, assumptions and caveats  - stakeholder and policy maker perspective**
+* _December -_  **Art and Data Workshop**
+* _December -_  **Informal NABES chat and peer support - Dec**
+
+* _November -_  **[Events Highlights](https://uk-nabes.github.io/news/2025/11/17/Workshop-2025-November.html)**
+* _November -_  **Informal NABES chat and peer support - Nov**
+
+* _October -_  **[Communicating uncertainty, assumptions and caveats  - stakeholder and policy maker perspective](https://uk-nabes.github.io/news/2025/10/22/Workshop-2025-October.html)**
 * _October -_  **Informal NABES chat and peer support - Oct**
 
-* _September -_  **Helping statisticians thrive in the agricultural, biological and environmental sectors. RSS International Conference (in person), Edinburgh**
-* _September -_  **[Statistical Challenges in the Agri-Environment Sector](https://warwick.ac.uk/fac/sci/statistics/news/agri-environment-event2025/)** Organised jointly by the BIR (British and Irish Region of the International Biomertric Society) and UKNABES. In-person, University of Warwick.
-* September -_  **Informal NABES chat and peer support - Sep**
+* _September -_  **[Helping statisticians thrive in the agricultural, biological and environmental sectors. RSS International Conference](https://uk-nabes.github.io/news/2025/09/09/Events-2025-September.html)** In-person, Edinburgh
+* _September -_  **[Statistical Challenges in the Agri-Environment Sector](https://uk-nabes.github.io/news/2025/09/09/Events-2025-September.html)** Organised jointly by the BIR (British and Irish Region of the International Biomertric Society) and UKNABES. In-person, University of Warwick.
+* _September -_  **Informal NABES chat and peer support - Sep**
 
 * _August -_ **[Consultancy Corner](https://uk-nabes.github.io/news/2025/08/19/Workshop-2025-August.html)**
 
