@@ -2,6 +2,7 @@
 layout: page
 title: About NABES
 permalink: /about/
+order: 1
 ---
 
 The vision of the Network of Agricultural, Biological and Environmental
