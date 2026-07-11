@@ -6,18 +6,42 @@ permalink: /events/
 
 # Next Events
 
-* _Thursday 29 January 1330 -_ **Informal NABES chat and peer support**
+* _Wednesday 15 July 1400 -_ **Round Table**
+* _Wednesday 29 July 1030 -_ **Informal NABES chat and peer support**
 
+* _TBD August -_ **Citizen Science - Part II**
+* _TBD August -_ **Informal NABES chat and peer support**
+
+* _TBD September -_ **Events Highlights**
+* _TBD September -_ **Informal NABES chat and peer support**
+
+* _TBD October -_ **Reading Group**
+* _TBD October -_ **Informal NABES chat and peer support**
 
 ## Past Events  
 
 ### 2026
 
-* _January -_  **Round Table**
+* _June -_  **Exciting near-future advances in statistics, data science, and technology**
+* _June -_  **Informal NABES chat and peer support - Jun**
+
+* _May -_  **Informal NABES chat and peer support - May**
+
+* _April -_  **[Mentoring and Career Development](https://uk-nabes.github.io/news/2026/04/20/Workshop-2026-April.html)**
+* _April -_  **Informal NABES chat and peer support - Apr**
+
+* _March -_  **[Consultancy Corner](https://uk-nabes.github.io/news/2026/03/09/Workshop-2026-March.html)**
+* _March -_  **Informal NABES chat and peer support - Mar**
+
+* _February -_  **[Citizen Science Workshop](https://uk-nabes.github.io/news/2026/02/11/Workshop-2026-February.html)**
+* _February -_  **Informal NABES chat and peer support - Feb**
+
+* _January -_  **[Round Table](https://uk-nabes.github.io/news/2026/01/14/Workshop-2026-January.html)**
+* _January -_  **Informal NABES chat and peer support - Jan**
 
 ### 2025
 
-* _December -_  **Art and Data Workshop**
+* _December -_  **[Art and Data Workshop](https://uk-nabes.github.io/news/2025/12/08/Workshop-2025-December.html)**
 * _December -_  **Informal NABES chat and peer support - Dec**
 
 * _November -_  **[Events Highlights](https://uk-nabes.github.io/news/2025/11/17/Workshop-2025-November.html)**
