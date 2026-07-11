@@ -2,6 +2,7 @@
 layout: page
 title: EDI Policy
 permalink: /EDI/
+order: 7
 ---
 
 # NABES Equality, Inclusion, and Diversity Policy
