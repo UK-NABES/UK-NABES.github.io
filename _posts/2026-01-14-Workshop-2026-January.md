@@ -10,7 +10,7 @@ categories: news
 To start the New Year, we had a roundtable workshop to hear what the plans for the network and individuals are in 2026. Some highlights were:
 * Getting more people involved with the NABES executive committee – please contact <nabescontact@gmail.com> if interested or curious
 * Events highlights in October – please take notes at any events that may be interesting to share with the network
-* Starting a group to develop a NABES mentoring and career development programme – please contact Hayley Carr (Babraham Institute, <carrh@babraham.ac.uk>) and Eleanor D'Arcy (Environment Agency, <eleanor.d'arcy@environment-agency.gov.uk>) if you’d like to be involved or have suggestions
+* Starting a group to develop a NABES mentoring and career development programme – please contact Hayley Carr (Babraham Institute, <carrh@babraham.ac.uk>) and Eleanor D'Arcy (Environment Agency, [eleanor.d'arcy@environment-agency.gov.uk](mailto:eleanor.d'arcy@environment-agency.gov.uk) if you’d like to be involved or have suggestions
 * Mentioned conferences that may be of interest:
   * [Society for Veterinary Epidemiology and Preventive Medicine Annual Conference 2026](https://svepm2026.com/) (March in London)
   * [Models in Population Dynamics, Ecology and Evolution 2026](https://dbearup.github.io/mpdee26/) (April in Leicester)
