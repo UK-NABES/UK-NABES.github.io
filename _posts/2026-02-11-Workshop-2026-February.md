@@ -7,7 +7,7 @@ categories: news
 
 <img src="/img/2026-BlogPictures/Feb2026-BlogPic.jpg" alt="Citizen Science Sketch" width=350px align = "right">
 
-This month, we had two great presentations from Robin Hutchinson (UK Centre for Ecology & Hydrology, <robhut@ceh.ac.uk>) and Clare Betts (Department for Environment Food & Rural Affairs, <clare.betts@defra@gov.uk>) on citizen science data, all the way from the data collection stage to using these datasets for government environmental indicators:
+This month, we had two great presentations from Robin Hutchinson (UK Centre for Ecology & Hydrology, <robhut@ceh.ac.uk>) and Clare Betts (Department for Environment Food & Rural Affairs, <clare.betts@defra.gov.uk>) on citizen science data, all the way from the data collection stage to using these datasets for government environmental indicators:
 * Citizen science involves public volunteers at some stage of science and research, from project design to data collection to dissemination
   * For environmental sciences, this is often using volunteers to record where and when they observe a particular species
 * Citizen science data can have a range of underlying structure, depending on the methodology provided (or lack thereof)
