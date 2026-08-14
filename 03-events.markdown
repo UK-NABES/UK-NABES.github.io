@@ -23,7 +23,7 @@ permalink: /events/
 * _July -_  **[Round Table](https://uk-nabes.github.io/news/2026/07/15/Workshop-2026-July.html)**
 * _July -_  **Informal NABES chat and peer support - Jul**
 
-* _June -_  **Exciting near-future advances in statistics, data science, and technology**
+* _June -_  **[Emerging Topics in Statistics, Data Science and Technology](https://uk-nabes.github.io/news/2026/06/17/Workshop-2026-June.html)**
 * _June -_  **Informal NABES chat and peer support - Jun**
 
 * _May -_  **Informal NABES chat and peer support - May**
