@@ -6,21 +6,22 @@ permalink: /events/
 
 # Next Events
 
-* _Wednesday 15 July 1400 -_ **Round Table**
-* _Wednesday 29 July 1030 -_ **Informal NABES chat and peer support**
-
-* _TBD August -_ **Citizen Science - Part II**
-* _TBD August -_ **Informal NABES chat and peer support**
+* _Monday 24 August 1400 -_ **Common Workflows for Unstructured Data: From data exploration to communicating uncertainty**
 
 * _TBD September -_ **Events Highlights**
-* _TBD September -_ **Informal NABES chat and peer support**
+* _Wednesday 9 September 1500 -_ **Informal NABES chat and peer support**
 
-* _TBD October -_ **Reading Group**
+* _TBD October -_ **Reading Group - Hybrid AI process modelling**
 * _TBD October -_ **Informal NABES chat and peer support**
 
 ## Past Events  
 
 ### 2026
+
+* _August -_  **Informal NABES chat and peer support - Aug**
+
+* _July -_  **[Round Table](https://uk-nabes.github.io/news/2026/07/15/Workshop-2026-July.html)**
+* _July -_  **Informal NABES chat and peer support - Jul**
 
 * _June -_  **Exciting near-future advances in statistics, data science, and technology**
 * _June -_  **Informal NABES chat and peer support - Jun**
