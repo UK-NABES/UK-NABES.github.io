@@ -27,13 +27,13 @@ sets, and provide better value for funders.
 ## Introductory Poster
 This poster summarises what our network is about - who it is for, our aims, types of activities we carry out, and how to get involved.  
 
-<img src="/img/Poster_RSS2025_Conference.jpg" alt="poster" width=750px>  
+<img src="/img/EES-Poster-updatedmembers2026.jpg" alt="poster" width=750px>  
 
-View a larger image [here](https://uk-nabes.github.io/files/Poster_RSS2025_Conference.pdf).    
+View a larger image [here](https://uk-nabes.github.io/files/EES-Poster-updatedmembers2026.pdf).    
 
 ## Committees 
 Our committees include these members  
-<img src="/img/CommitteesMembers.jpg" alt="committees members" width=550px>
+<img src="/img/CommitteeMembers2026.png" alt="committees members" width=550px>
 
 ## Working Practices
 Our working practices can be accessed here:
