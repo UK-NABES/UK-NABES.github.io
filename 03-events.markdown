@@ -6,18 +6,27 @@ permalink: /events/
 
 # Next Events
 
-* _Monday 24 August 1400 -_ **Common Workflows for Unstructured Data: From data exploration to communicating uncertainty**
+* _TBD November -_ **Developing data, evidence and digital strategies**
+* _TBD November -_ **Informal NABES chat and peer support**
 
-* _TBD September -_ **Events Highlights**
-* _Wednesday 9 September 1500 -_ **Informal NABES chat and peer support**
+* _TBD December -_ **Book club**
+* _TBD December -_ **Informal NABES chat and peer support**
 
-* _TBD October -_ **Reading Group - Hybrid AI process modelling**
-* _TBD October -_ **Informal NABES chat and peer support**
+* _TBD January 2027 -_ **Roundtable**
+* _TBD January 2027 -_ **Informal NABES chat and peer support**
+
 
 ## Past Events  
 
 ### 2026
 
+* _October -_  **Reading Group - Hybrid AI process modelling**
+* _October -_  **Informal NABES chat and peer support - Oct**
+
+* _September -_  **[Events Highlights](https://uk-nabes.github.io/news/2026/09/30/Workshop-2026-September.html)**
+* _September -_  **Informal NABES chat and peer support - Sep**
+
+* _August -_  **[Common Workflows for Unstructured Data: From data exploration to communicating uncertainty](https://uk-nabes.github.io/news/2026/08/24/Workshop-2026-August.html)**
 * _August -_  **Informal NABES chat and peer support - Aug**
 
 * _July -_  **[Round Table](https://uk-nabes.github.io/news/2026/07/15/Workshop-2026-July.html)**
@@ -60,49 +69,49 @@ permalink: /events/
 * _July -_ **[Communicating uncertainty, assumptions and caveats to non-quantitative policymakers and stakeholders - The statistician's view](https://uk-nabes.github.io/news/2025/07/09/Workshop-2025-July.html)**
 * _July -_ **Informal NABES chat and peer support - Jul**
 
-* _June -_ **[Round Table](_posts/2025-06-11-Workshop-2025-June.md)**
+* _June -_ **[Round Table](https://uk-nabes.github.io/news/2025/06/11/Workshop-2025-June.html)**
 * _June -_ **Informal NABES chat and peer support - Jun**
 
 * _May -_ **[Interactive Workshop: AI Practical](https://uk-nabes.github.io/news/2025/05/12/Workshop-2025-May.html)**
 * _May -_ **Informal NABES chat and peer support - May**
 
-*	_April -_ **[Designing scientific studies: How can NABES help?](_posts/2025-04-09-Workshop-2025-April.md)**
+*	_April -_ **[Designing scientific studies: How can NABES help?](https://uk-nabes.github.io/news/2025/04/09/Workshop-2025-April.html)**
 * _April -_ **Informal NABES chat and peer support - Apr**
 
-*	_March -_ **[Building Statistical Literacy](_posts/2025-03-17-Workshop-2025-March.md)**
+*	_March -_ **[Building Statistical Literacy](https://uk-nabes.github.io/news/2025/03/17/Workshop-2025-March.html)**
 * _March -_ **Informal NABES chat and peer support - Mar**
 
-* _February -_ **[Journal Club: Multispecies Indicators](_posts/2025-02-12-Workshop-2025-February.md)**
+* _February -_ **[Journal Club: Multispecies Indicators](https://uk-nabes.github.io/news/2025/02/12/Workshop-2025-February.html)**
 *	_February -_ **Informal NABES chat and peer support - Feb**
 
-* _January -_ **[Forward-looking round table](_posts/2025-01-31-Workshop-2025-January.markdown)**
+* _January -_ **[Forward-looking round table](https://uk-nabes.github.io/news/2025/01/31/Workshop-2025-January.html)**
 * _January -_  **Informal NABES Chat and peer support - Jan**
 
 
 
 ### 2024
 
-* _December -_ **[Interactive workshop: NABES Networking](_posts/2024-12-11-Workshop-2024-December.md)**
+* _December -_ **[Interactive workshop: NABES Networking](https://uk-nabes.github.io/news/2024/12/11/Workshop-2024-December.html)**
 
-* _November -_  **[Impact of AI on statistical careers](_posts/2024-11-18-Workshop-2024-November.md)**
+* _November -_  **[Impact of AI on statistical careers](https://uk-nabes.github.io/news/2024/11/30/Workshop-2024-November.html)**
 * _November -_  **Informal NABES Chat and peer support group - Nov**
 
-* _October -_  **[Statistical practice: Greenhouse Gas Inventory – Improvements, impact, policy implications](_posts/2024-10-16-Workshop-2024-October.md)**
+* _October -_  **[Statistical practice: Greenhouse Gas Inventory – Improvements, impact, policy implications](https://uk-nabes.github.io/news/2024/10/30/Workshop-2024-October.html)**
 * _October -_  **Informal NABES Chat and peer support group - Oct**
   
-* _September -_  **[NABES Peer Support](_posts/2024-09-18-Workshop-2024-September.md)** 
+* _September -_  **[NABES Peer Support](https://uk-nabes.github.io/news/2024/09/18/Workshop-2024-September.html)** 
 
-* _August -_  **[Round Table](_posts/2024-08-12-Workshop-2024-August.md)**
+* _August -_  **[Round Table](https://uk-nabes.github.io/news/2024/08/12/Workshop-2024-August.html)**
 
-* _July -_  **[Working with academics](_posts/2024-07-03-Workshop-2024-July.md)** 
+* _July -_  **[Working with academics](https://uk-nabes.github.io/news/2024/07/03/Workshop-2024-July.html)** 
 
-* _June -_ **[Learning from other networks - NIHR Stats Group](_posts/2024-06-22-Workshop-2024-June.md)**
+* _June -_ **[Learning from other networks - NIHR Stats Group](https://uk-nabes.github.io/news/2024/06/12/Workshop-2024-June.html)**
 
-* _May -_ **[Journal Club](_posts/2024-05-22-Workshop-2024-May.md) -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
+* _May -_ **[Journal Club](https://uk-nabes.github.io/news/2024/05/21/Workshop-2024-May.html) -  [Communicating Uncertainty](https://www.sciencedirect.com/science/article/pii/S2211675322000161)**
 
-* _April -_ **[Building a shared careers talk for NABES](_posts/2024-05-05-Workshop-2024-April.md)**
+* _April -_ **[Building a shared careers talk for NABES](https://uk-nabes.github.io/news/2024/05/04/Workshop-2024-April.html)**
   
-* _March -_ **[Round Table](_posts/2024-03-31-Workshop-2024-March.markdown)**
+* _March -_ **[Round Table](https://uk-nabes.github.io/news/2024/03/31/Workshop-2024-March.html)**
 
 * _February -_  **Learning to use Github**
 
