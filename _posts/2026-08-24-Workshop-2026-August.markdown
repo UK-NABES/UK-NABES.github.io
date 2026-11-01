@@ -5,6 +5,8 @@ date:   2026-08-24 18:00:00 +0000
 categories: news
 ---
 
+<img src="/img/2026-BlogPictures/Feb2026-BlogPic.jpg" alt="Citizen Science Sketch" width=350px align = "right"> 
+
 Diana Bowler (_UK Centre for Ecology and Hydrology_, <diabow@ceh.ac.uk>) gave a
 great presentation for August’s workshop on workflows for unstructured data. Unstructured data, like some [citizen science datasets](https://www.inaturalist.org/), are collected without a consistent, documented protocol. Compared to more structured datasets, they typically cover a larger spatial area, temporal period and range of taxa, as well as having a larger quantity of data. For ecology, they have become a key data source for understanding patterns at large scale. However, they are also influenced by a variety of biases, like no recording of absences, inconsistent collection efforts, misidentifications, and no spatial or temporal design.
 
